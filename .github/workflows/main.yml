@@ -1,0 +1,1 @@
+pkg remove  game-repo -y && pkg remove science-repo -y && pkg update -y && pkg upgrade -y && pkg install curl -y
